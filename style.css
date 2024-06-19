@@ -1,0 +1,46 @@
+.highlight {
+    color: darkorange;
+}
+
+.feature , .footer, .header, #navbarNav{
+    background-color: darkorange;
+}
+.teacher{
+    background-color: rgba(248, 182, 101, 0.642);
+    padding: 10px;
+    border-radius: 5px;
+}
+/* Hero Section Styles */
+.jumbotron {
+    padding: 50px 0; 
+}
+#link_services{
+    background-color: #e9ecef;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.img-box{
+    overflow: hidden;
+}
+.contact{
+    background-color: #e9ecef;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.menu-item a {
+    color: black;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.menu-item a:hover {
+    background-color: darkorange;
+}
+
+.menu-item a.active {
+    background-color: #e9ecef;
+    color: e9ecef;
+}
